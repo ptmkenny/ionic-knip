@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "knip": "knip",
+    "knip:production": "knip --production --strict",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",

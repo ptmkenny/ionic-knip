@@ -1,0 +1,9 @@
+{
+  "entry": [
+    "src/main.tsx!",
+    "vite.config.ts"
+  ],
+  "project": [
+    "src/**/*.{js,cjs,mjs,jsx,ts,cts,mts,tsx}!"
+  ]
+}
